@@ -66,7 +66,7 @@ python html_clones_grouper.py
 
 ## Screenshot
 
-![HTML Clones Clustering Interface](1.png)
+![HTML Clones Clustering Interface](1(2).png)
 
 ## License
 MIT License
