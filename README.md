@@ -34,17 +34,10 @@ The solution uses a multi-step process to group similar documents:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/html-clones-grouper.git
-cd html-clones-grouper
+git clone https://github.com/Adrian21203/HTML_Clones.git
+cd HTML_Clones
 ```
-
-### 2. Create Virtual Environment
-```bash
-python3 -m venv venv
-source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
-```
-
-### 3. Install Dependencies
+### 2. Install Dependencies
 ```bash
 pip install beautifulsoup4
 pip install scikit-learn
